@@ -1,4 +1,4 @@
-![Autism](Autism-1.png)
+![Autism](Autism.png)
 #🧠 Autism Prediction System using Machine Learning :
 
 The Autism Prediction System is a machine learning-based application designed to assist in the early detection of Autism Spectrum Disorder (ASD). It analyzes user-provided screening data and predicts the likelihood of autism using trained ML models.
